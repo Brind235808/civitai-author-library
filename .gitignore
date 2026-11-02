@@ -1,0 +1,21 @@
+# scraped data and evidence never belong in the repo
+raw/
+img/
+thumbs/
+meta/
+wall/
+images.jsonl
+images.csv
+comparisons.jsonl
+comparison_summary.txt
+cases_selected.jsonl
+download_manifest.json
+profile.json
+profile.md
+heartbeat.json
+*.log
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
